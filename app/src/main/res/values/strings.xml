@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MovieStatistics</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txt_releaseYear">Year:</string>
+    <string name="txt_runtime">minutes</string>
+    <string name="txt_aspectRatio">Aspect Ratio:</string>
+    <string name="txt_color">Color?</string>
+    <string name="txt_watched">Watched?</string>
+    <string name="txt_comment">Comments:</string>
+
+    <string name="radio_yes">Yes</string>
+    <string name="radio_no">No</string>
+    <string name="radio_no_color">No (Black &amp; White)</string>
+
+    <string name="hint_title">Title</string>
+    <string name="hint_releaseYear">Release year</string>
+    <string name="hint_runtime">Runtime in</string>
+    <string name="hint_aspectRatio">as a decimal</string>
+    <string name="hint_comment">Your comments go here</string>
+
+    <string name="button_save">Save Movie</string>
+    <string name="empty_not_saved">Movie not saved.</string>
+    <string name="clear_all_data">Clear all movies</string>
+
+    <string name="unable_to_update">Couldn\'t update the movie.</string>
+</resources>
